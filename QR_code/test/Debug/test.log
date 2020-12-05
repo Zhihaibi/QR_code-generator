@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\learning source\大二短学期项目\二维码生成器\活下来了\test\mask.h(238): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\learning source\大二短学期项目\二维码生成器\活下来了\test\mask.h(287): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\learning source\大二短学期项目\二维码生成器\活下来了\test\mask.h(377): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\learning source\大二短学期项目\二维码生成器\活下来了\test\calmessage.h(10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  test.vcxproj -> D:\Learning Source\大二短学期项目\二维码生成器\活下来了\Debug\test.exe
